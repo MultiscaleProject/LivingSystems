@@ -1,0 +1,14 @@
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/obj/Debug/netcoreapp3.1/BooleanNetwork.csproj.AssemblyReference.cache
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/obj/Debug/netcoreapp3.1/BooleanNetwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/obj/Debug/netcoreapp3.1/BooleanNetwork.AssemblyInfoInputs.cache
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/obj/Debug/netcoreapp3.1/BooleanNetwork.AssemblyInfo.cs
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/obj/Debug/netcoreapp3.1/BooleanNetwork.csproj.CoreCompileInputs.cache
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/bin/Debug/netcoreapp3.1/BooleanNetwork
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/bin/Debug/netcoreapp3.1/BooleanNetwork.deps.json
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/bin/Debug/netcoreapp3.1/BooleanNetwork.runtimeconfig.json
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/bin/Debug/netcoreapp3.1/BooleanNetwork.runtimeconfig.dev.json
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/bin/Debug/netcoreapp3.1/BooleanNetwork.dll
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/bin/Debug/netcoreapp3.1/BooleanNetwork.pdb
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/obj/Debug/netcoreapp3.1/BooleanNetwork.dll
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/obj/Debug/netcoreapp3.1/BooleanNetwork.pdb
+/Users/saulhuitzil/Downloads/para GitHub - Living Systems/Boolean Networks/C#/BooleanNetwork/BooleanNetwork/obj/Debug/netcoreapp3.1/BooleanNetwork.genruntimeconfig.cache

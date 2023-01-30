@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9IeM+2yiPkgHBKpM7YkZZLXn/F4CVofAZw7ROjKpBOySfSQ/+ASXigPvam6xqcLRbgmsBfcLC0ZTl9ZYZUWXdw==",
+  "success": true,
+  "projectFilePath": "/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/modularidad_core3.1.csproj",
+  "expectedPackageFiles": [
+    "/Users/saulhuitzil/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/saulhuitzil/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/saulhuitzil/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

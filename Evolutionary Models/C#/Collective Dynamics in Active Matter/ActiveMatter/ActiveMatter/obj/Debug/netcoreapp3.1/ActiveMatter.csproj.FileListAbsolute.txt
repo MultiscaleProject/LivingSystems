@@ -1,0 +1,14 @@
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/bin/Debug/netcoreapp3.1/ActiveMatter
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/bin/Debug/netcoreapp3.1/ActiveMatter.deps.json
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/bin/Debug/netcoreapp3.1/ActiveMatter.runtimeconfig.json
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/bin/Debug/netcoreapp3.1/ActiveMatter.runtimeconfig.dev.json
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/bin/Debug/netcoreapp3.1/ActiveMatter.dll
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/bin/Debug/netcoreapp3.1/ActiveMatter.pdb
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/obj/Debug/netcoreapp3.1/ActiveMatter.csproj.AssemblyReference.cache
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/obj/Debug/netcoreapp3.1/ActiveMatter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/obj/Debug/netcoreapp3.1/ActiveMatter.AssemblyInfoInputs.cache
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/obj/Debug/netcoreapp3.1/ActiveMatter.AssemblyInfo.cs
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/obj/Debug/netcoreapp3.1/ActiveMatter.csproj.CoreCompileInputs.cache
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/obj/Debug/netcoreapp3.1/ActiveMatter.dll
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/obj/Debug/netcoreapp3.1/ActiveMatter.pdb
+/Users/saulhuitzil/Downloads/ActiveMatter/ActiveMatter/obj/Debug/netcoreapp3.1/ActiveMatter.genruntimeconfig.cache

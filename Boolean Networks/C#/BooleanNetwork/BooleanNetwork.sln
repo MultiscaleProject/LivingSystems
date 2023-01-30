@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanNetwork", "BooleanNetwork\BooleanNetwork.csproj", "{7BD7E151-1AB7-4928-9462-40FE30099A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD7E151-1AB7-4928-9462-40FE30099A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD7E151-1AB7-4928-9462-40FE30099A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD7E151-1AB7-4928-9462-40FE30099A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD7E151-1AB7-4928-9462-40FE30099A45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A882B004-DA93-41EE-9D1E-25080C316A02}
+	EndGlobalSection
+EndGlobal

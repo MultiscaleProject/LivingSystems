@@ -1,0 +1,14 @@
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/bin/Debug/netcoreapp3.1/modularidad_core3.1
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/bin/Debug/netcoreapp3.1/modularidad_core3.1.deps.json
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/bin/Debug/netcoreapp3.1/modularidad_core3.1.runtimeconfig.json
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/bin/Debug/netcoreapp3.1/modularidad_core3.1.runtimeconfig.dev.json
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/bin/Debug/netcoreapp3.1/modularidad_core3.1.dll
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/bin/Debug/netcoreapp3.1/modularidad_core3.1.pdb
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/obj/Debug/netcoreapp3.1/modularidad_core3.1.csproj.AssemblyReference.cache
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/obj/Debug/netcoreapp3.1/modularidad_core3.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/obj/Debug/netcoreapp3.1/modularidad_core3.1.AssemblyInfoInputs.cache
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/obj/Debug/netcoreapp3.1/modularidad_core3.1.AssemblyInfo.cs
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/obj/Debug/netcoreapp3.1/modularidad_core3.1.csproj.CoreCompileInputs.cache
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/obj/Debug/netcoreapp3.1/modularidad_core3.1.dll
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/obj/Debug/netcoreapp3.1/modularidad_core3.1.pdb
+/Users/saulhuitzil/Downloads/03_modularidad/modularidad_core3.1/modularidad_core3.1/obj/Debug/netcoreapp3.1/modularidad_core3.1.genruntimeconfig.cache
