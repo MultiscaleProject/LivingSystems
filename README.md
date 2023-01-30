@@ -1,14 +1,7 @@
 # LivingSystems
 Mathematical models for living systems
 
-# This is just an example
-Work in progress...
+The following codes have been created as part of a research project that seeks to understand the role of multiscale structures and dynamics in the self-organizing complexity of active matter and living systems.
 
-Living Systems
-========   
-
-NetworkX is a Python package for the creation, manipulation,
-and study of the structure, dynamics, and functions
-of complex networks.
-
+For further information please visit the project web page:
 - **Website [Project](https://people.esam.northwestern.edu/~cristian/MOP/Research/)
