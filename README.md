@@ -13,8 +13,7 @@ A Boolean Network is a model that shows how different components in a system int
 
 Boolean Networks are helpful in understanding how living systems work and how they can be changed to achieve specific goals.
 
-![alt text](https://csdl-images.ieeecomputer.org/trans/tb/2012/05/figures/ttb20120514101.gif)
-
+<img src="https://csdl-images.ieeecomputer.org/trans/tb/2012/05/figures/ttb20120514101.gif" width=60% height=60%>
 
 
 ## Collaborators:
