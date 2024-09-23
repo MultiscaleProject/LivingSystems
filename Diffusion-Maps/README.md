@@ -1,4 +1,4 @@
-### Detailed Description of the `DiffusionMap` Function
+### Description of the `DiffusionMap` Function
 
 The `DiffusionMap` function is a dimensionality reduction method that aims to capture the intrinsic geometric structure of high-dimensional data by respecting diffusion distances. The diffusion distance measures how connected two points are in a graph defined by the data, considering paths through intermediate points. The function uses the diffusion maps algorithm as described by Coifman and Lafon (2006), providing a nonlinear approach to embed data into a lower-dimensional space.
 
