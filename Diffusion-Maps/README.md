@@ -49,3 +49,8 @@ The `DiffusionMap` function is a dimensionality reduction method that aims to ca
 - **Eigen Decomposition**: Finds the most informative directions for reducing the data dimensionality based on diffusion processes.
 
 This implementation emphasizes computational efficiency through sparsification and focuses on preserving meaningful diffusion distances in the reduced dimensional space, making it suitable for high-dimensional data analysis tasks such as clustering, visualization, and noise reduction.
+
+
+## Acknowledgement
+
+This project was made possible through the support of Grant 62213 from the John Templeton Foundation. The opinions expressed in this publication are those of the author(s) and do not necessarily reflect the views of the John Templeton Foundation.
